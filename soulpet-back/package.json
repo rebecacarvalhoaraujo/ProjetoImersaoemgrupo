@@ -1,0 +1,32 @@
+{
+  "name": "soulpet-rn1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.28",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.2.3",
+    "sequelize": "^6.31.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgo-mas/soulpet-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgo-mas/soulpet-back/issues"
+  },
+  "homepage": "https://github.com/tgo-mas/soulpet-back#readme",
+  "description": ""
+}
